@@ -1,0 +1,18 @@
+.header {
+  margin: 20px auto;
+  max-width: 1200px;
+  width: 100vw;
+  height: 200px;
+  overflow: hidden;
+}
+
+.imageContainer {
+  position: relative;
+  margin: 0 auto;
+  width: 90%;
+  height: 100%;
+}
+
+.image {
+  object-fit: contain;
+}

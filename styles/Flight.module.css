@@ -1,0 +1,22 @@
+.detailsContainer {
+    margin: 20px auto;
+    max-width: 450px;
+    min-width: 320px;
+    height: 200px;
+    background-color: var(--secondary-color);
+    text-align: center;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 20px 0;
+    box-shadow: -10px 10px 0 0px var(--orange);
+}
+
+.notFlight {
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: var(--orange);
+}
