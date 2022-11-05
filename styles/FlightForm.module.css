@@ -18,6 +18,13 @@
     width: 100%;
     text-align: center;
     font-weight: 600;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.selectsContainer label{
+    margin: 0 10px;
 }
 
 .select {
